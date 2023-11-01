@@ -1,0 +1,11 @@
+D:\githuptraining\myproject\MySimpleTrader.Domain\bin\Debug\net6.0\MySimpleTrader.Domain.deps.json
+D:\githuptraining\myproject\MySimpleTrader.Domain\bin\Debug\net6.0\MySimpleTrader.Domain.dll
+D:\githuptraining\myproject\MySimpleTrader.Domain\bin\Debug\net6.0\MySimpleTrader.Domain.pdb
+D:\githuptraining\myproject\MySimpleTrader.Domain\obj\Debug\net6.0\MySimpleTrader.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\githuptraining\myproject\MySimpleTrader.Domain\obj\Debug\net6.0\MySimpleTrader.Domain.AssemblyInfoInputs.cache
+D:\githuptraining\myproject\MySimpleTrader.Domain\obj\Debug\net6.0\MySimpleTrader.Domain.AssemblyInfo.cs
+D:\githuptraining\myproject\MySimpleTrader.Domain\obj\Debug\net6.0\MySimpleTrader.Domain.csproj.CoreCompileInputs.cache
+D:\githuptraining\myproject\MySimpleTrader.Domain\obj\Debug\net6.0\MySimpleTrader.Domain.dll
+D:\githuptraining\myproject\MySimpleTrader.Domain\obj\Debug\net6.0\refint\MySimpleTrader.Domain.dll
+D:\githuptraining\myproject\MySimpleTrader.Domain\obj\Debug\net6.0\MySimpleTrader.Domain.pdb
+D:\githuptraining\myproject\MySimpleTrader.Domain\obj\Debug\net6.0\ref\MySimpleTrader.Domain.dll

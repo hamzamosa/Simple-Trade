@@ -1,0 +1,17 @@
+D:\githuptraining\myproject\MySimpleProject.EntityFrameWork\bin\Debug\net6.0\MySimpleProject.EntityFrameWork.deps.json
+D:\githuptraining\myproject\MySimpleProject.EntityFrameWork\bin\Debug\net6.0\MySimpleProject.EntityFrameWork.runtimeconfig.json
+D:\githuptraining\myproject\MySimpleProject.EntityFrameWork\bin\Debug\net6.0\MySimpleProject.EntityFrameWork.dll
+D:\githuptraining\myproject\MySimpleProject.EntityFrameWork\bin\Debug\net6.0\MySimpleProject.EntityFrameWork.pdb
+D:\githuptraining\myproject\MySimpleProject.EntityFrameWork\bin\Debug\net6.0\MySimpleTrader.Domain.dll
+D:\githuptraining\myproject\MySimpleProject.EntityFrameWork\bin\Debug\net6.0\MySimpleTrader.Domain.pdb
+D:\githuptraining\myproject\MySimpleProject.EntityFrameWork\obj\Debug\net6.0\MySimpleProject.EntityFrameWork.csproj.AssemblyReference.cache
+D:\githuptraining\myproject\MySimpleProject.EntityFrameWork\obj\Debug\net6.0\MySimpleProject.EntityFrameWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\githuptraining\myproject\MySimpleProject.EntityFrameWork\obj\Debug\net6.0\MySimpleProject.EntityFrameWork.AssemblyInfoInputs.cache
+D:\githuptraining\myproject\MySimpleProject.EntityFrameWork\obj\Debug\net6.0\MySimpleProject.EntityFrameWork.AssemblyInfo.cs
+D:\githuptraining\myproject\MySimpleProject.EntityFrameWork\obj\Debug\net6.0\MySimpleProject.EntityFrameWork.csproj.CoreCompileInputs.cache
+D:\githuptraining\myproject\MySimpleProject.EntityFrameWork\obj\Debug\net6.0\MySimpleProject.EntityFrameWork.csproj.CopyComplete
+D:\githuptraining\myproject\MySimpleProject.EntityFrameWork\obj\Debug\net6.0\MySimpleProject.EntityFrameWork.dll
+D:\githuptraining\myproject\MySimpleProject.EntityFrameWork\obj\Debug\net6.0\refint\MySimpleProject.EntityFrameWork.dll
+D:\githuptraining\myproject\MySimpleProject.EntityFrameWork\obj\Debug\net6.0\MySimpleProject.EntityFrameWork.pdb
+D:\githuptraining\myproject\MySimpleProject.EntityFrameWork\obj\Debug\net6.0\MySimpleProject.EntityFrameWork.genruntimeconfig.cache
+D:\githuptraining\myproject\MySimpleProject.EntityFrameWork\obj\Debug\net6.0\ref\MySimpleProject.EntityFrameWork.dll
